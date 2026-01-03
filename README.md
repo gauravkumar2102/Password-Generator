@@ -29,37 +29,18 @@ Font Awesome – Icons
 
 HTML5 & CSS3 – Structure and styling
 
-📂 Project Structure
-password-generator/
-│
-├── index.html
-├── package.json
-├── package-lock.json
-├── src/
-│   ├── index.js
-│   ├── App.jsx
-│   └── style.css
-└── README.md
 
 📦 Dependencies
 
 The project uses the following main dependencies 
 
-package
-
-:
+package:
 
 react
 
 react-dom
 
 parcel
-
-@fortawesome/react-fontawesome
-
-@fortawesome/fontawesome-svg-core
-
-@fortawesome/free-solid-svg-icons
 
 ⚙️ Installation & Setup
 
@@ -94,11 +75,6 @@ Font Awesome icons enhance usability
 
 Parcel bundles and serves the app efficiently
 
-📸 Preview
-
-(Add a screenshot of your app here)
-
-![Password Generator Preview](screenshot.png)
 
 🚀 Future Improvements
 
