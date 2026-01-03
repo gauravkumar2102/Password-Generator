@@ -3,6 +3,8 @@
 A simple and secure Password Generator built using React.
 This application helps users generate strong, random passwords instantly with a clean and user-friendly interface.
 
+Live Link : https://passwordgeneratorgaurav.netlify.app/
+
 ✨ Features
 
 🔑 Generate strong and random passwords
