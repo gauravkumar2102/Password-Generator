@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #1b1b1b;
+    
+}
+
+.header{
+    text-align: center;
+    color: white;
+    background-color: #272727;
+    padding: 20px;
+    
+}
+
+.gen{
+    background-color: #9e0909;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.container {
+    min-width: 800px;
+    width: 800px;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+    background-color: #819128;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.container h1 {
+    word-break: break-word;
+    white-space: normal;
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+.input{
+    width: 80%;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.input input{
+    margin: 10px;
+    
+}
+.input input:hover{
+    cursor: pointer;
+}
+.btn{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 15px;
+}
+.copy-icon{ 
+    background-color: #6f099e98;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    
+}
+
+.copy-icon:hover{
+    cursor: pointer;
+    background-color: #6f099ee7;
+    transition: 0.3s;
+}
